@@ -37,7 +37,7 @@ Este é um sistema bancário simples desenvolvido em Python. Ele permite criar c
 - `criar_cliente(clientes)`: Função para cadastrar um novo cliente.
 - `criar_conta(AGENCIA, num_cpf, num_conta, clientes)`: Função para criar uma nova conta bancária.
 - `realizar_deposito(saldo, qtd_dep)`: Função para realizar um depósito.
-- `realizar-saque(*, saldo, saque, qtd_saque)`: Funçãompara realizar um saque.
+- `realizar-saque(*, saldo, saque, qtd_saque)`: Função para realizar um saque.
 - `ver_extrato(saldo, qtd_saque, *, qtd_dep)`: Função para visualizar o extrato da conta.
 
 ## Contribuição
